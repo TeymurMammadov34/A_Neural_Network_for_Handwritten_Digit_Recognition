@@ -4,14 +4,14 @@ Bu proje, Keras kütüphanesi kullanılarak el yazısı rakamların tanınması 
 
 ## 🗂️ İçerik
 
-- [Proje Hakkında](ProjeHakkında)
-- [Gereksinimler](gereksinimler)
-- [Veri Seti ve Ön İşleme](veri-seti-ve-ön-işleme)
-- [Model Mimarisi](model-mimarisi)
-- [Model Eğitimi](model-eğitimi)
-- [Model Değerlendirme ve Sonuçlar](model-değerlendirme-ve-sonuçlar)
-- [Model Kaydetme ve Yükleme](model-kaydetme-ve-yükleme)
-- [Sonuçlar ve Grafikler](sonuçlar-ve-grafikler)
+- [Proje Hakkında](#ProjeHakkında)
+- [Gereksinimler](#gereksinimler)
+- [Veri Seti ve Ön İşleme](#veri-seti-ve-ön-işleme)
+- [Model Mimarisi](#model-mimarisi)
+- [Model Eğitimi](#model-eğitimi)
+- [Model Değerlendirme ve Sonuçlar](#model-değerlendirme-ve-sonuçlar)
+- [Model Kaydetme ve Yükleme](#model-kaydetme-ve-yükleme)
+- [Sonuçlar ve Grafikler](#sonuçlar-ve-grafikler)
 
 ---
 
