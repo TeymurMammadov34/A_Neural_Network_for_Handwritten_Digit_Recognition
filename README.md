@@ -121,8 +121,9 @@ plt.show()
 
 - Daha ileri düzey için CNN (Convolutional Neural Network) modelleri de incelenebilir.
 
-## 👤 Geliştirici
-**Teymur Mammadov**
+## 👨‍💻 Geliştirici
+
+**Teymur Mammadov** 
 
 📧 İletişim: [timurmammadov34@gmail.com]
 
